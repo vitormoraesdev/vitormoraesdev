@@ -2,9 +2,9 @@
 
 
 - 🔭 Estou trabalhnado com Front-end
-- 🌱 estou estudando Typescript
+- 🌱 estou estudando Typescript, React e C#
 - 😄 Pronouns: Ele/Dele
-- ⚡ Estou cursando Análise e Desenvolvimento de Sistemas
+- ⚡ Estou cursando Análise e Desenvolvimento de Sistemas no UniCeub
 
 <div>
   <a href="https://github.com/vitormoraesdev/">
