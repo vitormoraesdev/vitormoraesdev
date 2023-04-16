@@ -7,7 +7,8 @@
 - ⚡ Estou cursando Análise e Desenvolvimento de Sistemas
 
 <div>
-  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vitormoraesdev)](https://github.com/anuraghazra/github-readme-stats)
+  <a href="https://github.com/vitormoraesdev/">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical">
 </div>
 
 <div style="display: inline_block"><br>
