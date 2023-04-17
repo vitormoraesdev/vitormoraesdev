@@ -8,7 +8,7 @@
 
 <div>
   <a href="https://github.com/vitormoraesdev/">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vitormoraesdev&show_icons=true&theme=gruvbox">
+   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vitormoraesdev&show_icons=true&theme=gruvbox">
 </div>
 
 <div style="display: inline_block"><br>
