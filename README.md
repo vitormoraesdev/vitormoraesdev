@@ -3,7 +3,6 @@
 
 - 🔭 Estou trabalhnado com Front-end
 - 🌱 Estou me aprimorando em Typescript, React e C#
-- 😄 Pronouns: Ele/Dele
 - ⚡ Estou cursando Análise e Desenvolvimento de Sistemas no UniCeub
 
 <div>
