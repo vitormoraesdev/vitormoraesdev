@@ -1,4 +1,4 @@
-## Ola!👋 Eu sou Vitor Cardoso de Moraes
+## Ola!👋 Eu sou o Vitor Cardoso de Moraes
 
 
 - 🔭 Estou trabalhnado com Front-end
