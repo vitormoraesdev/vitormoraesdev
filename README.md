@@ -1,8 +1,8 @@
 ## Ola!👋 Eu sou o Vitor Cardoso de Moraes
 
 
-- 🔭 Estou trabalhnado com Front-end
-- 🌱 Estou me aprimorando em Typescript, React e C#
+- 🔭 Estou trabalhnado com Full-stack com foco em Back-end
+- 🌱 Estou me aprimorando em TypeScript, Angular e .NET(C#)
 - ⚡ Estou cursando Análise e Desenvolvimento de Sistemas no UniCeub
 
 <div>
